@@ -1,0 +1,34 @@
+#contact{
+    background-color: rgb(61, 63, 62);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    flex-direction: column;
+    height: 650px;
+    width: 100%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+#contact input{
+    margin: 10px 0px;
+}
+#contact textarea{
+    margin: 10px 0px;
+}
+.signin{
+    background: rgb(10, 89, 10)!important;
+    color: white !important;
+    box-shadow: 2px 4px 5px ,rgba(0,0,0.5);
+}
+.msk img{
+    width: 350px;
+    height: 350px;
+    border-radius: 100%;
+    
+}
+.msk{
+    margin: 0;
+    padding: 0;
+}
